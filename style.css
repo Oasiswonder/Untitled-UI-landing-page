@@ -79,6 +79,7 @@ p {
 .button {
     justify-content: center;
     text-align: center;
+    margin-right: 18rem;
     margin-bottom: 2rem;
 }
 .btn{
@@ -115,7 +116,7 @@ p {
 
 .image .mockup {
     max-width: 50%;
-    margin-top: -50rem;
-    padding-left: 40rem;
-    transform: scaleY(1.5);
+    margin-top: -72rem;
+    padding-left: 50rem;
+    transform: scaleY(1.7);
 }
